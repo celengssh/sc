@@ -42,7 +42,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Ary',
+  footerText: 'Powered by ❋ཻུ۪۪⸙AnangKntol-Ofc⳹ ❋ཻུ۪۪',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
